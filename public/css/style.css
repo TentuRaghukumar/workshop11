@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    height: 100px;
+}
+
+.d-flex>*{
+    margin: .25em;
+}
+
+.hide{
+    display: none;
+}
